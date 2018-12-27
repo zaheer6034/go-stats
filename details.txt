@@ -1,0 +1,2 @@
+Go stats repo.
+Clone and use it!
