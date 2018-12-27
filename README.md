@@ -43,6 +43,8 @@ stats 2014/07/18 11:24:37 errors 19.80/s tick=99 total=290
 ...
 ```
 
+Thanks for visiting!
+
 ## License
 
 MIT
